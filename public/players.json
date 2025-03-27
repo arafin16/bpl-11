@@ -1,0 +1,136 @@
+{
+  "players": [
+    {
+      "playerId": 1,
+      "name": "Afif Hossion",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/jbryh1R/download-1.jpg",
+      "role": "All-Rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": 170000,
+      "rating": "4.7 ⭐"
+    },
+    {
+      "playerId": 2,
+      "name": "Arjun Patel",
+      "country": "India",
+      "image": "https://i.ibb.co.com/KzPFT7K/367417-5.jpg",
+      "role": "All-Rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm off-spin",
+      "biddingPrice": 10000,
+      "rating": "4.7 ⭐"
+    },
+    {
+      "playerId": 3,
+      "name": "Mohammad Khan",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/w694bP6/images.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm fast",
+      "biddingPrice": 232000,
+      "rating": "4.4 ⭐"
+    },
+    {
+      "playerId": 4,
+      "name": "Rohit Sharma",
+      "country": "India",
+      "image": "https://i.ibb.co.com/k59Gh5H/download-2.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm medium-fast",
+      "biddingPrice": 73800,
+      "rating": "4.4 ⭐"
+    },
+    {
+      "playerId": 5,
+      "name": "Sakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/WnzqGzM/download.jpg",
+      "role": "All-Rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "N/A",
+      "biddingPrice": 67000,
+      "rating": "4.3 ⭐"
+    },
+    {
+      "playerId": 6,
+      "name": "Imran Khan",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/dc8c4pd/images-3.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "N/A",
+      "biddingPrice": 55500,
+      "rating": "4.5 ⭐"
+    },
+    {
+      "playerId": 7,
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://i.ibb.co.com/KqGLxfX/images-2.jpg",
+      "role": "All-Rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Left-arm orthodox spin",
+      "biddingPrice": 22800,
+      "rating": "4.6 ⭐"
+    },
+    {
+      "playerId": 8,
+      "name": "Usman Qadir",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/QJKyCZ9/images-4.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm fast",
+      "biddingPrice": 92000,
+      "rating": "4.3 ⭐"
+    },
+    {
+      "playerId": 9,
+      "name": "Liton Das",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/KszPDGM/download-3.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "N/A",
+      "biddingPrice": 245000,
+      "rating": "4.2 ⭐"
+    },
+    {
+      "playerId": 10,
+      "name": "M.S. Dhoni",
+      "country": "India",
+      "image": "https://i.ibb.co.com/ZhtrRWK/download-2.jpg",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "N/A",
+      "biddingPrice": 55500,
+      "rating": "4.8 ⭐"
+    },
+    {
+      "playerId": 11,
+      "name": "Babar Azom",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/T8j5Gyx/images-5.jpg",
+      "role": "All-Rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": 240000,
+      "rating": "4.6 ⭐"
+    },
+    {
+      "playerId": 12,
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/q5JymdB/download.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm leg-spin",
+      "biddingPrice": 20000,
+      "rating": "4.1 ⭐"
+    }
+  ]
+}
