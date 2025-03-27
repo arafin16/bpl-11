@@ -1,23 +1,20 @@
-# Project Name 🚀
-### BPL-DREAM 11 🏏
+# Project Name 
+### BPL-DREAM 11 
 
-## 🚀Short Description
-BPL-DREAM 11 is a React app for creating and managing a cricket team by selecting players from Bangladesh, India, and Pakistan. Key features include a customizable Navbar, coin-based player selection, a toggleable view, and validation checks.
+## Short Description
+BPL-DREAM 11 is a React application designed for building and managing a cricket team by selecting players from Bangladesh, India, and Pakistan. It features a customizable Navbar, a coin-based player selection system, a toggleable view, and built-in validation checks to ensure a smooth user experience.
 
 
-### Technologies Used:✨
+### Technologies Used:
 
-- ⚛️ React: Core framework for creating the application's UI and managing state.
-- 🎨 Tailwind CSS: For responsive, utility-based styling.
-- 🌼 DaisyUI: UI components built on Tailwind CSS, enhancing the styling and component accessibility.
-- 🔔 React-Toastify: Provides pop-up notifications for various actions like coin updates and player selection.
-- 🗂️ JSON: For storing player data, allowing easy retrieval and manipulation.
-- 🛠️ Git: Version control to manage project development and deployment.
+The BPL-DREAM 11 app is built using **React** as the core framework for creating a dynamic UI and managing state efficiently. For styling, it leverages **Tailwind CSS**, a utility-first framework, along with **DaisyUI**, which enhances design consistency and accessibility through pre-built components. To improve user interaction, **React-Toastify** is integrated, enabling real-time notifications for actions such as coin updates and player selection. Player data is stored and managed using **JSON**, ensuring easy retrieval and manipulation. Additionally, **Git** is utilized for version control, allowing smooth project development and deployment.
 
-## 🛠️ 3 Key Features 
- - ⚾ Player Selection: Choose from top players in Bangladesh, India, and Pakistan.
- - 💰 Coin-Purchase System: Manage player selection within your budget, with alerts for low funds.
-  - 📊 Dynamic Player Stats: View detailed statistics for each player, including role, country, and bidding price, to make informed decisions.
+##  Key Features 
+ - Player Selection: Build your team by selecting top players from Bangladesh, India, and Pakistan.
+
+- Coin-Based Selection: Strategically manage your budget while choosing players, with alerts for insufficient funds.
+
+- Detailed Player Stats: Access comprehensive statistics, including player roles, country, and bidding prices, to make informed decisions.
 
 ## Live Link 🌐
 
